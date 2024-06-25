@@ -1,1 +1,1 @@
-seconddeploy.streamlit.app
+pastibisa.streamlit.app
