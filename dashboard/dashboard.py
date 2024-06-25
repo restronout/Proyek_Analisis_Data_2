@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-import pipreqs as req
+
 # Load the datasets
 cust = pd.read_csv('data/olist_customers_dataset.csv')
 geo = pd.read_csv('data/olist_geolocation_dataset.csv')
